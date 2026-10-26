@@ -1,0 +1,4 @@
+interface:
+  display_name: "세로릴스 제작 워크플로"
+  short_description: "두 앵글 원본 보존·콘티 배열·싱크·색보정과 에펙 자막 제작"
+  default_prompt: "Use $vertical-reels-workflow to organize my full-length camera footage around the storyboard, preserve sync, mark OK ranges, add a highlight/shadow correction node, and continue captions or delivery for the requested scope."
