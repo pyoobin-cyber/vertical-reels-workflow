@@ -25,7 +25,7 @@
 
 1단계만 요청하면 완성된 릴스가 아니라 **정리된 작업 타임라인**이 나옵니다. 영상 결과물이 필요하면 2단계 컷 편집까지 함께 요청하세요.
 
-[공유용 ZIP 다운로드](https://github.com/pyoobin-cyber/vertical-reels-workflow/releases/latest/download/vertical-reels-workflow-v1.0.zip) · [설치·사용 안내](시작하기.md) · [스킬 전문](vertical-reels-workflow/SKILL.md)
+[공유용 ZIP 다운로드](https://github.com/pyoobin-cyber/vertical-reels-workflow/archive/refs/heads/main.zip) · [설치·사용 안내](시작하기.md) · [스킬 전문](vertical-reels-workflow/SKILL.md)
 
 ## 포함된 작업 기준
 
